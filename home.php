@@ -4,12 +4,6 @@
 <body>
 
   <div class="click-closed"></div>
-<<<<<<< HEAD
-=======
-  
-
->>>>>>> 417653e2902082295d51e14d8a454fe3bcd0f0fc
-
   <!--/ Carousel Star /-->
   <div class="intro intro-carousel">
     <div id="carousel" class="owl-carousel owl-theme">
