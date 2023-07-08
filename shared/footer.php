@@ -6,7 +6,7 @@
                 <nav class="nav-footer">
                     <ul class="list-inline">
                         <li class="list-inline-item">
-                            <a href="home.php">Home</a>
+                            <a href="index.php">Home</a>
                         </li>
                         <li class="list-inline-item">
                             <a href="challenges.php">Challenges</a>

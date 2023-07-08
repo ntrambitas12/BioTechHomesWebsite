@@ -34,12 +34,12 @@
         <span></span>
         <span></span>
       </button>
-      <a class="navbar-brand text-brand" href="home.php">Biotech<span class="color-b">Homes</span></a>
+      <a class="navbar-brand text-brand" href="index.php">Biotech<span class="color-b">Homes</span></a>
       
       <div class="navbar-collapse collapse justify-content-center" id="navbarDefault">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="home.php">Home</a>
+            <a class="nav-link" href="index.php">Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="challenges.php">Challenges</a>
